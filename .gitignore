@@ -1,0 +1,5 @@
+.DS_Store
+*.gguf
+cocoder.sh
+.cache/*
+__pycache__

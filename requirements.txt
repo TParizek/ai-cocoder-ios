@@ -1,0 +1,2 @@
+pyperclip
+llama-cpp-python
