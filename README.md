@@ -24,9 +24,9 @@ Download AI Model:
 
 ## TODOs
 
-[ ] Optimize the prompt to increase quality of generated code
+- [ ] Optimize the prompt to increase quality of generated code
 
-[ ] Fine tune train the deepseek coder model ([link](https://github.com/deepseek-ai/DeepSeek-Coder?tab=readme-ov-file#5-how-to-fine-tune-deepseek-coder))
+- [ ] Fine tune train the deepseek coder model ([link](https://github.com/deepseek-ai/DeepSeek-Coder?tab=readme-ov-file#5-how-to-fine-tune-deepseek-coder))
 
 ## License
 
